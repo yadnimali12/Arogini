@@ -9,7 +9,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25%20Device--Only-rose.svg)](#-privacy-first-architecture)
 [![Clinical Guidelines](https://img.shields.io/badge/Guidelines-ACOG%20%7C%20Rotterdam%20%7C%20FIGO%20%7C%20WHO-blue.svg)](#-clinical-guidelines-grounding)
-[![Author: yadnimali12](https://img.shields.io/badge/Author-yadnimali12-coral.svg)](https://github.com/yadnimali12)
 
 ---
 
@@ -186,13 +185,7 @@ Arogini's clinical knowledge bases and agent triage algorithms are derived from 
 - **FIGO (International Federation of Gynecology and Obstetrics)**: PALM-COEIN classification system for abnormal uterine bleeding (AUB).
 - **WHO (World Health Organization)**: Recommendations on Antenatal Care for a Positive Pregnancy Experience (8-Contact Model).
 
----
 
-## 👩‍💻 Author & Maintainer
-
-* **Yadni Mali** ([@yadnimali12](https://github.com/yadnimali12))
-  - GitHub: [https://github.com/yadnimali12](https://github.com/yadnimali12)
-  - Project Repository: [https://github.com/yadnimali12/Arogini](https://github.com/yadnimali12/Arogini)
 
 ---
 
